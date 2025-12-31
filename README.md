@@ -1,4 +1,6 @@
-<h2 align="center">Aspiring System Developer currently studying Fullstack System Development</h2>
+<h3 align="center">Aspiring System Developer currently studying Fullstack System Development.
+  <br>
+Open to Internship or a Junior position.</h3>
 
 <br>
 
