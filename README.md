@@ -1,6 +1,8 @@
-<h3 align="center">Aspiring System Developer currently studying Fullstack System Development.
+<h4 align="center">Aspiring System Developer currently studying Fullstack System Development in Javascript and Java.
   <br>
-Open to an Internship or a Junior position.</h3>
+I am now working on my final degree project which is very exciting.
+  <br>
+I am open to an Internship(starting February) or a Junior position.</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/patrik-bustad-46b75b253/">
