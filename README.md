@@ -1,5 +1,5 @@
 <h3 align="center">Aspiring System Developer currently studying Fullstack System Development.
-  <br>
+<br>
 Open to Internship or a Junior position.</h3>
 
 <br>
@@ -34,3 +34,5 @@ Open to Internship or a Junior position.</h3>
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patseroni)](https://github.com/anuraghazra/github-readme-stats)
