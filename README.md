@@ -55,7 +55,7 @@ I am open to an Internship(starting February) or a Junior position.</h4>
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Patseroni&theme=radical&show_icons=true"
-    alt="Patseroni GitHub stats"
+    alt="GitHub stats"
   />
 </p>
 
