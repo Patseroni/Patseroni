@@ -51,7 +51,7 @@ Open to an Internship or a Junior position.</h3>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Patseroni&theme=radical&show_icons=true"
+    src="https://github-stats.vercel.app/api?username=Patseroni&theme=radical&show_icons=true"
     alt="Patseroni GitHub stats"
   />
 </p>
