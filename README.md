@@ -1,4 +1,5 @@
-<h4 align="center">Aspiring System Developer currently studying Fullstack System Development in Javascript and Java.
+<h3 align="center">Hi, I'm Patrik</h3>
+<h4 align="center">I am an aspiring System Developer currently studying Fullstack System Development in Javascript and Java.
   <br>
 I am now working on my final degree project which is very exciting.
   <br>
