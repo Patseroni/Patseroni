@@ -1,7 +1,6 @@
 <h3 align="center">Hi, I'm Patrik</h3>
-<h4 align="center">I am an aspiring System Developer currently studying Fullstack System Development in Javascript and Java.
-<br>  
-<br> 
+<h4 align="center">I am an aspiring System Developer currently studying Fullstack System Development in Javascript and Java.</h4>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/patrik-bustad-46b75b253/">
     <img width="70px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
